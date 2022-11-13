@@ -1,10 +1,9 @@
-# site settings
+# Site settings
 title: Jonathan Knott
-subtitle: portfolio and CV
 email: jon@joncknott.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />for free under the <a href="https://html5up.net/license">Creative Commons</a> license.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: Jonathan Knott
 street_address: 
 city: Wollongong
@@ -13,32 +12,21 @@ zip_code:
 country: Australia
 phone: 
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+icon: fa-light fa-fire # Font Awesome class for your site's icon
 
-# social settings (key must match name of font awesome icon)
-# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
-# Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
-socials:
-  GitHub: https://github.com/joncknott
-  GitLab:
-  Google-Plus: 
-  Instagram: https://www.instagram.com/joncknott/
-  LinkedIn: https://www.linkedin.com/in/joncknott
-  Twitter: https://twitter.com/joncknott
-  Facebook:
-  Slack:
+# Social settings
+facebook_url:
+github_url: https://github.com/joncknott/
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/joncknott/
+linkedin_url: https://www.linkedin.com/in/joncknott
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/joncknott
 
-# build settings
+# Build settings
 markdown: kramdown
 
 sass:
-  style: compressed
-
-exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+style: compressed
