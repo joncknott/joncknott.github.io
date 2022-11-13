@@ -12,7 +12,7 @@ zip_code:
 country: Australia
 phone: 
 
-icon: "fa-solid fa-fire" # Font Awesome class for your site's icon
+icon: "fa-fire" # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
