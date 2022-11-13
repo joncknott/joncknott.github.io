@@ -24,7 +24,7 @@ linkedin_url: https://www.linkedin.com/in/joncknott
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/joncknott
-googlescholar: https://scholar.google.com.au/citations?user=CZC38jsAAAAJ&hl=en
+googlescholar_url: https://scholar.google.com.au/citations?user=CZC38jsAAAAJ&hl=en
 
 # Build settings
 markdown: kramdown
