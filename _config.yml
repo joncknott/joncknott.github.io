@@ -1,7 +1,7 @@
 # Site settings
 title: Jonathan Knott
 email: jon@joncknott.com
-description: A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />for free under the <a href="https://html5up.net/license">Creative Commons</a> license.
+description: Engineer, Researcher, Entrepreneur.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Jonathan Knott
@@ -12,7 +12,7 @@ zip_code:
 country: Australia
 phone: 
 
-icon: fa-light fa-fire # Font Awesome class for your site's icon
+icon: fa-solid fa-fire # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
@@ -24,6 +24,7 @@ linkedin_url: https://www.linkedin.com/in/joncknott
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/joncknott
+googlescholar: https://scholar.google.com.au/citations?user=CZC38jsAAAAJ&hl=en
 
 # Build settings
 markdown: kramdown
