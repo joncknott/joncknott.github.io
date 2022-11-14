@@ -1,48 +1,6 @@
 # Dimension - Jekyll Theme
 
-A Jekyll version of the "Dimension" theme by [HTML5 UP](https://html5up.net/).
-
-![Dimension Theme](assets/images/screenshot.jpg "Dimension Theme")
-
-# How to Use
-
-For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
-and [creating pages](https://jekyllrb.com/docs/pages/).
-
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file.
-
-# Added Features
-
-* Add your **social profiles** easily in `_config.yml`.
-
-# Configuration
-
-You can use the following custom parameters in `_config.yml`.
-
-## Site Icon
-- `icon` sets the class for your site's [Font Awesome](http://fontawesome.io/icons/) icon.
-
-## Social settings
-- `500px_url`
-- `facebook_url`
-- `github_url`
-- `gitlab_url`
-- `googleplus_url`
-- `instagram_url`
-- `linkedin_url`
-- `pinterest_url`
-- `slack_url`
-- `twitter_url`
-
-# Issues
-
-If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/dimension-jekyll-theme) and I will be more than happy to help!
-
-Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/dimension-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/dimension-jekyll-theme@incoming.gitlab.com).
-
-The GitHub repository is simply a mirror of the GitLab repository.
+A Jekyll version of the "Dimension" theme by [HTML5 UP](https://html5up.net/), by [Andrew Banchich](https://github.com/andrewbanchich/dimension-jekyll-theme).
 
 # Credits
 
