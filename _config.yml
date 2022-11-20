@@ -34,3 +34,22 @@ style: compressed
 
 # Google Analytics
 google_analytics: G-PJQ9ZGKZXC
+
+# Work Timeline
+work:
+  - company: "Some company"
+    details:
+      - date: "October 2022"
+        position: "Your position"
+        description: "Some description"
+      - date: "June 2022"
+        position: "Different Position"
+        description: "Different Description"
+  - company: "Some other company"
+    details:
+      - date: "October 2020"
+        position: "Your position"
+        description: "Some description"
+      - date: "June 2020"
+        position: "Different Position"
+        description: "Different Description"
