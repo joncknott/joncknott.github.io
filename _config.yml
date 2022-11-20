@@ -37,19 +37,24 @@ google_analytics: G-PJQ9ZGKZXC
 
 # Work Timeline
 work:
-  - company: "Some company"
+  - company: "Faculty of Engineering and Information Sciences, University of Wollongong"
     details:
-      - date: "October 2022"
-        position: "Your position"
-        description: "Some description"
-      - date: "June 2022"
-        position: "Different Position"
-        description: "Different Description"
-  - company: "Some other company"
+      - date: "October 2022 -"
+        position: "Research Fellow"
+        description: "Contract research with BlueScope Limited"
+      - date: "January 2021 - September 2022"
+        position: "Research Fellow"
+        description: "DMTC Superconductors project"
+  - company: "Institute for Superconducting and Electronic Materials, University of Wollongong"
     details:
-      - date: "October 2020"
-        position: "Your position"
+      - date: "September 2021 - September 2022"
+        position: "Interim Assistant Director"
         description: "Some description"
-      - date: "June 2020"
-        position: "Different Position"
+      - date: "March 2016 - July 2020"
+        position: "Project Manager / Research Fellow"
         description: "Different Description"
+  - company: "Upward Manufacturing"
+    details:
+      - date: "September 2021 - September 2022"
+        position: "Director"
+        description: "Some description"
